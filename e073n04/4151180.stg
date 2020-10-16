@@ -28,7 +28,7 @@ OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml 73.5388819 4.2071752 
 OBJECT_SHARED Models/Commercial/hotel-generic-01.xml 73.5274566 4.1871601 3.59 0
 OBJECT_SHARED Models/Airport/tower.xml 73.5274772 4.1862678 3.56 0
 OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml 73.5231181 4.1888732 -0.01 0
-OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml 73.526788 4.1794095 0 0
+OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml 73.524671 4.178135 -0.01 0
 OBJECT_SHARED Models/Commercial/small-glass-office-building.ac 73.5273801 4.1866111 3.47 0
 OBJECT_SHARED Models/Sport/SwimmingPool.xml 73.5170362 4.1756062 7.08 0
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 73.5193 4.18405 0 354.65
